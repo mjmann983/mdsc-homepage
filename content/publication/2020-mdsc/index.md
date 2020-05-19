@@ -22,7 +22,7 @@ publication: '*Research Methods in Learning Design & Technology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2020-3-01T00:00:00Z"
 summary: 'A paper introducing the topic of data science in education.'
 tags:
 - Data Science Education
