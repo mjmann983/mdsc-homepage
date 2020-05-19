@@ -1,0 +1,34 @@
+---
+title: Presentation on the use of education-focused Twitter hashtags at the Martin
+  School of Public Policy at the University of Kentucky
+author: Joshua Rosenberg
+date: '2020-05-19'
+slug: presentation-on-the-use-of-education-focused-twitter-hashtags-at-the-martin-school-of-public-policy-at-the-university-of-kentucky
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-05-19T10:00:23-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+---
+title: Presentation on studying education-focused Twitter hashtags in light of state-based and national policies and practices
+author: ''
+date: '2020-02-21'
+slug: presentation-on-studying-education-focused-twitter-hashtags-in-light-of-state-based-and-national-policies-and-practices
+categories: []
+tags: []
+---
+
+Supported through an [SEC Travel Grant](https://www.thesecu.com/programs/sec-faculty-travel-program/2019-2020-sec-faculty-travel-program-participants/), I presented on *Studying education-focused Twitter hashtags in light of state-based and national policies and practices* as a part of the 2020 Spring Seminar Series at the Martin School of Public Policy at the University of Kentucky, Lexington, KY.
+
+A link to the presentation is here: https://docs.google.com/presentation/d/1lNMAUGfBvnVsLEL8pbeS5On60v0vZifqeZkXsqkyFYk/edit?usp=sharing
+
+Thank you to [Annelise Russell](https://martin.uky.edu/annelise-russell) and [Spencer Greenhalgh](https://ci.uky.edu/grad/contact/greenhalgh/spencer) for this awesome opportunity!
