@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "0", "0px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="img/mdsc-logo.png" style = "height: 57.5%; width: 57.5%;margin-left: auto; margin-right: auto;">
-
 <p style="text-align: center;"><em>Making Data Science Count</em> is an educational research group at the University of Tennessee, Knoxville</p>
+
+<img src="img/mdsc-logo.png" style = "height: 45%; width: 25%; margin-left: auto; margin-right: auto;">
+
+<br> 
+
+<p style="text-align: center;"> From this page, you can read news and updates, learn about ongoing projects, see who we are, and access publications.</p>

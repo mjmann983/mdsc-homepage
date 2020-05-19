@@ -11,10 +11,10 @@ abstract: 'Analyzing and interpreting data is essential to the practice of scien
 authors:
 - admin
 - Michael Lawson
-- Daniel Anderson
-- Teya Rutherford
+- Daniel J. Anderson
 - Ryan Seth Jones
-date: "2019-11-01T00:00:00Z"
+- Teomara Rutherford
+date: "2020-01-01T00:00:00Z"
 doi: ""
 featured: true
 projects: []
@@ -22,14 +22,14 @@ publication: '*Research Methods in Learning Design & Technology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-11-01T00:00:00Z"
+publishDate: "2020-11-01T00:00:00Z"
 summary: 'A paper introducing the topic of data science in education.'
 tags:
 - Data Science Education
-title: 'Making data science “count”: Data science and learning, design, and technology research'
+title: 'Making Data Science Count In and For Education'
 url_code: ""
 url_dataset: ""
-url_pdf: https://edarxiv.org/hc2dw/
+url_pdf: https://joshuamrosenberg.com/pre-prints/rosenberg-et-al-making-data-science-count.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

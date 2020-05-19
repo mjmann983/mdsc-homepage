@@ -20,12 +20,12 @@ publication: '*The Science Teacher* (12)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-11-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 summary: 'An article for practicing science teachers on tools and stragegies for involving students in data analysis.'
 tags:
 - Data Science Education
 - Science Education
-title: Tools and strategies for engaging students in analyzing and interpreting complex data sources
+title: "Getting Messy With Data: Tools and Strategies for Engaging Students in Analyzing and Interpreting Complex Data Surces"
 url_code: ""
 url_dataset: ""
 url_pdf: https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf
