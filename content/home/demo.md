@@ -29,7 +29,7 @@ subtitle = ""
   gradient_end = "ForestGreen"
   
   # Background image.
-  # image = ""mdsc-logo.png" "  # Name of image in `static/img/`.
+  # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="img/mdsc-logo.png", style = "height: 57.5%; width: 57.5%; margin-left: auto; margin-right: auto;"/>
+<img src="img/mdsc-logo.png">
 
 <p style="text-align: center;"><em>Making Data Science Count</em> is an educational research group at the University of Tennessee, Knoxville</p>
