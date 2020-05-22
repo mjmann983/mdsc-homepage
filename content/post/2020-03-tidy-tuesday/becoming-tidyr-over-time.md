@@ -1,6 +1,6 @@
 ---
 title: Becoming Tidyr over Time- Data Visualization Development in an Online Community of Practice Data!)
-author: ''
+author: 'Anthony Schmidt'
 date: '2020-03-11'
 slug: becoming-tidyr-over-time
 categories:
