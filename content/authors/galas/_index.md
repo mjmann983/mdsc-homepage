@@ -18,7 +18,7 @@ user_groups:
 weight: 3.0
 ---
 
-Evelina is in the MS teacher education program with a concentration on professional internship and a specialization in science eduction at UTK. She graduated from UTC with a BS in biology-preprofessional with minors in psychology and chemistry. Evelina's future goals are to unlock the world of biology to young students while incorperating real-world scenarios into the classroom like introducing data science through research articles. 
+Evelina is in the MS teacher education program with a concentration on professional internship and a specialization in science eduction at UTK. She graduated from UTC with a BS in biology-preprofessional with minors in psychology and chemistry. Evelina's future goals are to unlock the world of science to young students while incorperating real-world scenarios into the classroom like introducing data science through research articles. 
 
 <br>
 <br>
