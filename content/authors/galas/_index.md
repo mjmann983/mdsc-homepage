@@ -7,7 +7,7 @@ email: ""
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: "MS in Teacher Education Student, Concentration Professional Internship, Specialization Science Education "
+role: "M.S.Ed. Student, Concentration Professional Internship, Specialization Science Education "
 social:
 - icon: twitter
   icon_pack: fab
