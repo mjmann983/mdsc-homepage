@@ -16,7 +16,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
+projects:  []
 ---
 
 A blog post on [Using R With 7th-Grade Science Students[(https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)] was recently highlighted in the widely-read data visualization blog Flowing Data. A link to the post is 
