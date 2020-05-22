@@ -15,7 +15,7 @@ featured: no
 image:
   caption: 'Image credit: [**UTK**](https://cehhs.utk.edu/2020-graduate-student-advisory-board-graduate-research-colloquium/)'
   focal_point: Right
-projects: []
+projects: [tidytuesday]
 ---
 
 #### [Download the poster here!](tidy_tuesday_poster.pdf)
