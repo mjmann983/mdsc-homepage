@@ -7,7 +7,7 @@ email: ""
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: "MS student"
+role: "M.S.Ed. Student, Concentration Professional Internship, Specialization Science Education "
 social:
 - icon: twitter
   icon_pack: fab
@@ -24,5 +24,5 @@ Evelina is in the MS teacher education program with a concentration on professio
 <br>
 <br>
 <br>
-<img src="/img/michela.jpg"/>
+<img src="/img/evelina.jpg"/>
 
