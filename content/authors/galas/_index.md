@@ -7,7 +7,7 @@ email: ""
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: "Ph.D. Student, Learning, Design, and Technology program"
+role: "MS student"
 social:
 - icon: twitter
   icon_pack: fab
@@ -18,7 +18,7 @@ user_groups:
 weight: 3.0
 ---
 
-Esther Michela is a doctoral student in Learning, Design, and Technology at the University of Tennessee, Knoxville. She completed a BA in Special Education at Brigham Young University and taught for two years before attending the Harvard Graduate School of Education for a MA degree in 2010.  She taught in multiple middle schools in Maryland until returning to earn an MS in Instructional Psychology and Technology from Brigham Young University.
+Evelina is in the MS teacher education program with a concentration on professional internship and a specialization in science eduction at UTK. She graduated from UTC with a BS in biology-preprofessional with minors in psychology and chemistry. Evelina's future goals are to unlock the world of biology to young students while incorperating real-world scenarios into the classroom like introducing data science through research articles. 
 
 <br>
 <br>
