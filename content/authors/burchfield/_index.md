@@ -18,7 +18,7 @@ user_groups:
 weight: 3.2
 ---
 
-Macy Burchfield is an undergraduate student studying mathematics and secondary education through the VolsTeach Program at the University of Tennessee in Knoxville. Her research interests include educational technology, student interest in STEM subjects She plans to become a high school math teacher upon completion of her Bachelor's degree in 2022.
+Macy Burchfield is an undergraduate student studying mathematics and secondary education through the VolsTeach Program at the University of Tennessee in Knoxville. Her research interests include educational technology and student interest in STEM subjects. She plans to become a high school math teacher upon completion of her Bachelor's degree in 2022.
 <br>
 <br>
 <br>
