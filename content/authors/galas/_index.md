@@ -24,5 +24,5 @@ Evelina is in the MS teacher education program with a concentration on professio
 <br>
 <br>
 <br>
-<img src="/img/evelina.png"/>
+<img src="/img/evelina.jpg"/>
 
