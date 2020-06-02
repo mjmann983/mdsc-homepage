@@ -1,13 +1,13 @@
 ---
 authors:
-- emichela
-name: Esther Michela
+- bdgibbo
+name: Ben Gibbons
 bio: ""
-email: "emichela@vols.utk.edu"
+email: "ben.gibbons@emory.edu"
 interests:
 organizations:
-- name: University of Tennessee, Knoxville
-role: "Ph.D. Student, Learning, Design, and Technology program"
+- name: Emory University
+role: "Undergraduate Student, Psychology and Computer Science Double Major"
 social:
 - icon: twitter
   icon_pack: fab
@@ -18,7 +18,7 @@ user_groups:
 weight: 3.0
 ---
 
-Esther Michela is a doctoral student in Learning, Design, and Technology at the University of Tennessee, Knoxville. She completed a BA in Special Education at Brigham Young University and taught for two years before attending the Harvard Graduate School of Education for a MA degree in 2010.  She taught in multiple middle schools in Maryland until returning to earn an MS in Instructional Psychology and Technology from Brigham Young University.
+Ben Gibbons is an undergraduate student studying psychology and computer science at Emory University. He has experience working with Java, C, and R, as well as PsychoPy and Qualtrics. Ben is involved in several research teams that investigate spatial cognition, mixed emotions, and computer science education.
 
 <br>
 <br>
